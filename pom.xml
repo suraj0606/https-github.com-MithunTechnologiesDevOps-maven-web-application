@@ -92,7 +92,7 @@
 		
 	</dependencies>
 	
-<!--	
+	
 	<distributionManagement>
 	
 	    <repository>
@@ -107,7 +107,7 @@
 	      <url>http://43.205.146.155:8081/repository/projrct1-snapshot/</url>
 	    </snapshotRepository>
 	
-    -->
+    
 	</distributionManagement>
 	
 	<build>
