@@ -28,7 +28,7 @@
 
 	</properties>
 
-	<dependencies>
+<!--	<dependencies>
 		
 		<dependency>
 			<groupId>org.json</groupId>
@@ -91,6 +91,7 @@
 		</dependency>
 		
 	</dependencies>
+-->
 	
 	
 	<distributionManagement>
