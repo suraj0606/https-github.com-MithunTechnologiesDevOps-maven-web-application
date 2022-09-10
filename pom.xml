@@ -121,8 +121,8 @@
         			<artifactId>sonar-maven-plugin</artifactId>
         			<version>3.7.0.1746</version>
       				</plugin>
-    			</plugin>
-			<plugin>
+    			
+		          <plugin>
 				<groupId>org.eclipse.jetty</groupId>
 				<artifactId>jetty-maven-plugin</artifactId>
 				<version>9.2.11.v20150529</version>
